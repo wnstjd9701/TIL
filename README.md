@@ -18,7 +18,7 @@
 
 ---
 
-##### Email\_ wnstjd9701@naver.com <br>
+##### Email wnstjd9701@naver.com <br>
 
 ---
 
@@ -28,7 +28,14 @@ function TIL() {
 }
 ```
 
-| First Header     | Second Header    |
-| ---------------- | ---------------- |
-| Content cell 1   | Content cell 2   |
-| Content column 1 | Content column 2 |
+| TechStack     | Project                                  |
+| ------------- | ---------------------------------------- |
+| [ Python ]    | Coding Test                              |
+| [ Node.js ]   | 위메프 [Clone Coding] / Lends / GoBorrow |
+| [JavaScript ] | What to do ?                             |
+| [ React.js ]  | GoP (Processing)                         |
+
+| Server  | Infra    |
+| ------- | -------- |
+| [ AWS ] | EC2, RDS |
+| [ NHN ] | Toast    |
