@@ -1,10 +1,20 @@
-# TIL [Today I Learned]
+# 🚩 TIL [Today I Learned]
 
 > ### **오늘 내가 해야 할 것들** <br>
 
-- [ ] 백준
-- [ ] 프로그래머스
+- [ ] 백준 하루에 2 문제
+- [ ] 프로그래머스 1 문제
 - [ ] CS
+
+| Day of Week | CS              |
+| ----------- | --------------- |
+| 월          | 컴퓨터 네트워크 |
+| 화          | 자료구조        |
+| 수          | 알고리즘        |
+| 목          | 데이터베이스    |
+| 금          | 운영체제        |
+| 토          | 디자인패턴      |
+| 일          | 복습            |
 
 ---
 
@@ -24,7 +34,7 @@
 
 ```javascript
 function TIL() {
-  console.log('Hello World!');
+  console.log('🚩 Today I Learned!! 🚩');
 }
 ```
 
