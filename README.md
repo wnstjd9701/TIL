@@ -38,12 +38,12 @@ function TIL() {
 }
 ```
 
-| TechStack     | Project                                  |
-| ------------- | ---------------------------------------- |
-| [ Python ]    | Coding Test                              |
-| [ Node.js ]   | 위메프 [Clone Coding] / Lends / GoBorrow |
-| [JavaScript ] | What to do ?                             |
-| [ React.js ]  | GoP (Processing)                         |
+| TechStack     | Project                                    |
+| ------------- | ------------------------------------------ |
+| [ Python ]    | Coding Test                                |
+| [ Node.js ]   | 위메프 [Clone Coding] / GoBorrow / Respect |
+| [JavaScript ] | What to do ?                               |
+| [ React.js ]  | GoP (Processing)                           |
 
 | Server  | Infra    |
 | ------- | -------- |
