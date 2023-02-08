@@ -32,9 +32,10 @@
 
 ---
 
-```javascript
-function TIL() {
-  console.log('🚩 Today I Learned!! 🚩');
+```typescript
+async TIL() {
+  const til = await TodayILearned('🚩 Today I Learned!! 🚩');
+  return this.til;
 }
 ```
 
