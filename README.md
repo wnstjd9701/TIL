@@ -6,15 +6,15 @@
 - [ ] 프로그래머스 1 문제
 - [ ] CS
 
-| Day of Week | CS              |
-| ----------- | --------------- |
-| 월          | 컴퓨터 네트워크 |
-| 화          | 자료구조        |
-| 수          | 알고리즘        |
-| 목          | 데이터베이스    |
-| 금          | 운영체제        |
-| 토          | 디자인패턴      |
-| 일          | 복습            |
+| Day of Week | CS                  |
+| ----------- | ------------------- |
+| 월          | 컴퓨터 네트워크     |
+| 화          | 운영체제            |
+| 수          | 자료구조 / 알고리즘 |
+| 목          | 디자인패턴          |
+| 금          | 데이터베이스        |
+| 토          | 부족한 내용 복습    |
+| 일          | 부족한 내용 복습    |
 
 ---
 
@@ -41,11 +41,11 @@ function TIL() {
 | TechStack     | Project                                    |
 | ------------- | ------------------------------------------ |
 | [ Python ]    | Coding Test                                |
-| [ Node.js ]   | 위메프 [Clone Coding] / GoBorrow / Respect |
+| [ Node.js ]   | GoBorrow / Respect / 위메프 [Clone Coding] |
 | [JavaScript ] | What to do ?                               |
-| [ React.js ]  | GoP (Processing)                           |
 
-| Server  | Infra    |
-| ------- | -------- |
-| [ AWS ] | EC2, RDS |
-| [ NHN ] | Toast    |
+| Server         | Infra         |
+| -------------- | ------------- |
+| [ AWS ]        | EC2, RDS      |
+| [ NHN ]        | Toast         |
+| [PM2], [NGINX] | LoadBalancing |
